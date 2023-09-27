@@ -42,14 +42,15 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"Scientist Skibidi Mod for Gmod 1","desc":"Experience ultimate freedom as you discreetly toggle sv_cheats on and off at your leisure. Experiment, forge ahead, and navigate the GMod universe like never before. Our mod puts you in control, allowing you to bend the rules to your liking.","photo":"https://iili.io/JJDiHZX.jpg"},
+  {"title":"Scientist Skibidi Mod for Gmod 2","desc":"Embark on a thrilling journey into the captivating world of SCP through our mod, which introduces specially-crafted elements exclusive to GMod. Encounter enigmatic entities, explore hidden installations, and uncover long-kept mysteries lurking within GMod's shadowy realms.","photo":"https://iili.io/JJDi2Gs.jpg"},
+  {"title":"Scientist Skibidi Mod for Gmod3","desc":"Effortlessly access and integrate a plethora of Garry's Mod addons available on the Steam Workshop. Enhance your gameplay by customizing your experiences with a vast array of user-created content.",
+"photo":"https://iili.io/JJDidnn.jpg"},
+  {"title":"Scientist Skibidi Mod for Gmod 4","desc":"Immerse yourself in next-level AI encounters with our Nextbot Scientist addition for GMod. These intelligent NPCs bring a lifelike touch to your virtual world, responding convincingly to your actions and adding layers of depth and richness to your overall gaming experience.","photo":"https://iili.io/JJDi36G.jpg"},
+  {"title":"Scientist Skibidi Mod for Gmod 5","desc":"Prepare for captivating encounters with the alluring TV Woman in Garry's Mod. This exciting new addition adds a touch of glamour to your gameplay sessions, offering you a charismatic and engaging character for interactive fun.","photo":"https://iili.io/JJDi36G.jpg"},
+  {"title":"Scientist Skibidi Mod for Gmod 6","desc":"Take your gaming adventure on the go with the Scientist Skibidi Mod for GMod,set to launch on Android in 2023. Experience immersive gameplay on your mobile device - dive into the world of GMod anytime, anywhere!","photo":"https://iili.io/JJDiC92.jpg"},
+  {"title":"Scientist Skibidi Mod for Gmod 7","desc":"Embark on an endless journey through the vast world of Garry's Mod (GMod) with the Scientist Skibidi Mod for GMod","photo":"https://iili.io/JJDiq8l.jpg"},
+  {"title":"Scientist Skibidi Mod for Gmod 8","desc":"an advanced modification that reinvigorates your gaming adventures. Whether you're a seasoned GMod enthusiast or a curious newcomer, this mod is designed to cater to all your gaming desires. Elevate your playtime, explore new possibilities, and immerse yourself in the fantastic enhancements this mod brings to the table.","photo":"https://iili.io/JJDinuS.jpg"}
    ]
  
 }
